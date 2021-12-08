@@ -1,4 +1,64 @@
-// ----------------------------------------------------------------------------------------------------
+// =====================================================================================================
+// =====================================================================================================
+// ===============================  Author:  John Kennedy Loria Segundo  ===============================
+// ====================  Counter-Up-Down-and-7Segments-multiplexed.ino - ver.: 0.1  ====================
+// =====================  Initial Date: ??/??/20?? - Last Modify Date: ??/??/2021  =====================
+// =====================================================================================================
+// =====================================================================================================
+//
+//
+//
+//
+//
+// STATUS:
+//
+//                      IN DEVELOPMENT
+//
+//
+//
+// Code Function:
+//
+//
+//
+//
+//
+// Simplify code description:
+//
+//
+//
+//
+//
+// Logical description:
+//
+//
+//
+//
+//
+//
+// Version observations:
+// 
+//
+//              This code was created only for educational proposes, as a code exercise 
+//              in Arduino Lang for Arduino microcontroller (Arduino Uno).
+//
+//
+//
+//				This code use:
+//
+//				-		   Kit:		Arduino Uno
+//				-			µC:		AVR (Atmel - )
+//				-		 Clock:		?MHz (Xtal: ?MHz)
+//				-		Editor:		VScode
+//				-		Syntax:		Arduino Language
+//				-    Libraries:		??
+//				-	Compilator:		>> Not used yet <<
+//				-	 Simulator:		SimulIDE
+//
+//
+//
+//									PROGRAM:
+//  ----------------------------------------------------------------------------------------------------
+//
 //				Declarações Iniciais:
 
 	#define 	C_UP	 11									// Define Pino 11 como "C_UP",
